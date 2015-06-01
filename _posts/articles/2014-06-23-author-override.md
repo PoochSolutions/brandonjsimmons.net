@@ -8,7 +8,6 @@ categories: articles
 excerpt: "A post to test author overrides using a data file."
 tags: []
 ads: true
-share: true
 image:
   feature:
   teaser:
